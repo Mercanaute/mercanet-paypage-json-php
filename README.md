@@ -47,9 +47,9 @@ This example has been validated on a WAMP server with PHP version 7.3.12 .
 Cet exemple a été validé sur un serveur WAMP avec PHP version 7.3.12 .
 
 ### Documentation
-The code examples are based on our developer documentation, which provides comprehensive information on how Mercanet Paypage JSON works. For more information, refer to the [Mercanet Paypage JSON documentation](https://documentation.mercanet.bnpparibas.net/index.php?title=Accueil).
+The code examples are based on our developer documentation, which provides comprehensive information on how Mercanet Paypage JSON works. For more information, refer to the [Mercanet Paypage JSON documentation](https://documentation.mercanet.bnpparibas.net/index.php?title=Connecteur_JSON).
 
-Les exemples de code sont basés sur notre documentation développeur, qui fournit des informations complètes sur le fonctionnement de Mercanet Paypage JSON. Pour plus d'informations, reportez-vous au [Mercanet Paypage JSON documentation](https://documentation.mercanet.bnpparibas.net/index.php?title=Accueil)
+Les exemples de code sont basés sur notre documentation développeur, qui fournit des informations complètes sur le fonctionnement de Mercanet Paypage JSON. Pour plus d'informations, reportez-vous au [Mercanet Paypage JSON documentation](https://documentation.mercanet.bnpparibas.net/index.php?title=Connecteur_JSON)
 
 ### License
 This repository is open source and available under the MIT license. For more information, see the [LICENSE](LICENSE) file.
